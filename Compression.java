@@ -2,7 +2,7 @@
  * String compression
  * "aaabbcccdd" --> "a3b2c3d2"
  */
-public class stringCompression {
+public class Compression {
 
   public static String compressedStr(String str){
     StringBuilder newstr = new StringBuilder();
